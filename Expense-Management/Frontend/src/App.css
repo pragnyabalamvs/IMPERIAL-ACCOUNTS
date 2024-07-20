@@ -1,0 +1,170 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Popiens;
+    font-size: 35px;
+    background: url('../public/BG2.png');
+  }
+  .navbar {
+    background-color: #2adb92 !important;
+  }
+  .navbar .navbar-brand {
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  .navbar h6 {
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+  .spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+  }
+  
+  .spinner-grow {
+    width: 3rem;
+    height: 3rem;
+    border-width: 0.3em;
+  }
+  
+  .spinner-grow.text-success {
+    color: #28a745;
+  }
+  .login{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+  }
+  .login-page {
+    display: flex;
+    background: transparent;
+    align-items: center;
+    padding: 10px;
+    padding-top: 20px;
+    justify-content: center;
+    border-radius: 40px 40px 40px 40px;
+    box-shadow: 10px 10px 10px 10px;
+  }
+  .login-form {
+    padding:60px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  .login-form hr { 
+      display: flex;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+      margin-left: auto;
+      margin-right: auto;
+      border-style:groove;
+      border-width: 10px;
+  }
+  
+  .login-form h3 {
+    text-align: center;
+    font-weight: 1000px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    color: black;
+  }
+  
+  .login-form .ant-form-item-label label {
+    color: #344265 !important;
+  }
+  .login-form button {
+    background-color: #1411c4;
+    color: white;
+    outline: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .login-form button:hover {
+    background-color: black;
+    color: white;
+  }
+  .login-form a {
+    color: #344265 !important;
+  }
+  
+  .login-form a:hover {
+    color: black !important;
+  }
+.register{
+  display: flex;
+    padding-top: 150px;
+    justify-content: center;
+  }
+  .register-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px 40px 40px 40px;
+    box-shadow: 10px 10px 10px 10px;
+  }
+  .register-form {
+    padding:60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .register-form h3{
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    color: #344265;
+  }
+  
+  .register-form a {
+    color: #b87333 !important;
+  }
+  
+  .register-form a:hover {
+    color: black !important;
+  }
+  
+  .register-form button {
+    background-color: #b87333;
+    color: white;
+  }
+  
+  .register-form input:focus {
+    border: 1px solid #b87333 !important;
+    color: #b87333;
+  }
+  .register-form button:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  .navbar {
+    background-color: #2adb92 !important;
+  }
+  .navbar .navbar-brand {
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  .navbar h6 {
+    margin-top: 0px;
+    margin-right: 20px;
+  }
+  
